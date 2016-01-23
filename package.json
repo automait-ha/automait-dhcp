@@ -1,0 +1,10 @@
+{
+  "name": "automait-dhcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "expect-telnet": "^0.5.2",
+    "ping": "^0.1.10"
+  }
+}
